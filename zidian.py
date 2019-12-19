@@ -9,3 +9,5 @@ dict1 = {'李宁':'everthing is imposible',
          '阿迪达西':'impossible is nothing',
          'season':'do it'}
 print("season 的口号是：",dict1['season'])
+dict2 = {1:'one',2:'two',3:'three',4:'four'}
+print(dict2[3])
